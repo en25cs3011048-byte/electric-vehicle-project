@@ -13,7 +13,7 @@
 👉 https://github.com/en25cs3011048-byte/electric-vehicle-project/blob/main/DASHBOARDPREVIEW.png
 
 ## 📸 Demo Video
-👉 C:\Users\hp\Videos\Captures\en25cs3011048-byte_electric-vehicle-project - Google Chrome 2026-10-28 19-41-38.mp4
+👉 https://drive.google.com/file/d/1d9bleMHnyMoa4KmagUUrIqydSYaWrgkO/view?usp=drive_link
 ---
 
 ## 📊 Visualizations Included
