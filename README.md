@@ -5,7 +5,7 @@
 👉 https://en25cs3011048-byte.github.io/electric-vehicle-project/
 
 ## 🔗 Live Interactive Dashboard
-👉 prohttps://public.tableau.com/app/profile/vinamra.jain4967/viz/VinamraEvject/Dashboard1?publish=yes
+👉 pro https://public.tableau.com/app/profile/vinamra.jain4967/viz/VinamraEvject/Dashboard1?publish=yes
 
 ---
 
