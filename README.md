@@ -10,7 +10,7 @@
 ---
 
 ## 📸 Dashboard Preview
-👉
+👉 https://github.com/en25cs3011048-byte/electric-vehicle-project/blob/main/DASHBOARDPREVIEW.png
 
 ## 📸 Demo Video
 👉
